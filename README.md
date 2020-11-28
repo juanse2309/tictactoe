@@ -11,7 +11,7 @@ Por ejemplo
 
 ```html
 <header>
-    <script src="abc.js" >
+    <script src="abc.js" ></script>
 </header>
 ```
 
