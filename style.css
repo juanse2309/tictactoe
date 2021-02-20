@@ -1,0 +1,23 @@
+#board {
+    border : 1px solid red;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap:0px;
+}
+
+.cell {
+    border: 1px solid blue;
+    /* padding: 15px; */
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.cell.x {
+    background-color: red;
+}
+
+.cell.circle {
+    background-color: green;
+}
