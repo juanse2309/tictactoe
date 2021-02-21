@@ -73,6 +73,6 @@ function imc () {
         const result = document.getElementById('result');
         //injectar el resultado en el dom de results
 
-        
+        alert("el imc es: "+valorIMC);
     }
 }
